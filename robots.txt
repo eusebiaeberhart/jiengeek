@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aenitaighe.juby.cf/sitemap.xml
